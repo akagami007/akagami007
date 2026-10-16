@@ -6,7 +6,7 @@
 
 **Quality Assurance Engineer | Fullstack Developer |**
 
-Saya memiliki fokus pada pembuatan perangkat lunak web, platform mobile banking, integrasi backend, dan pengujian manual & otomatisasi. 
+Saya memadukan keahlian Fullstack Development dengan ketelitian holistik Quality Assurance. Saya merancang arsitektur berskala besar yang inovatif, sekaligus mengamankan setipa rilis melalui kombinasi pengujian manual yang mendetail dan regersi otomatisasi (E2E), serta penyusunan dokumen pelaporan hasil uji yang komprehensif.
 
 ### 🛠️ Tech Stack & Tools
 
